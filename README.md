@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/sunerajayasank1" target="blank"><img src="https://img.shields.io/twitter/follow/sunerajayasank1?logo=twitter&style=for-the-badge" alt="sunerajayasank1" /></a> </p>
 
-- 🔭 I’m currently working on [Icarus](https://github.com/Sunera1/Icarus)
 
 - 📫 How to reach me **sunerawickramanyaka@gmail.com**
 
