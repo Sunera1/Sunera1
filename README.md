@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Icarus](https://github.com/Sunera1/Icarus)
 
-- 📫 How to reach me **sunerajayasankha@gmail.com**
+- 📫 How to reach me **sunerawickramanyaka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
